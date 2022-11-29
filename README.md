@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rifat Islam
 #### I am a Front-End developer 🤠 .
-![I am a Front-End developer 🤠 .]()
+![I am a Front-End developer 🤠 .](C:\Users\USER\Downloads\github-banner.jpeg)
 
 Hi! I'm Rifat Islam. I'am a Web Developer|
 I have completed my HSC in Business-Studies from Carmichael College in Rangpur. Also I am a student in department of Management in National University. I always try to share my knowledge and experience because I believe that "helping others means helping yourself".
