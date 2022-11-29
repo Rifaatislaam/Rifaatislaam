@@ -1,5 +1,5 @@
-### Hi there 👋, I am Rifat Islam
-#### I am a Front-End developer 🤠 .
+#####I am Rifat Islam
+####A Front-End developer 🤠 .
 ![I am a Front-End developer 🤠 .](C:\Users\USER\Downloads\github-banner.jpeg)
 
 Hi! I'm Rifat Islam. I'am a Web Developer|
