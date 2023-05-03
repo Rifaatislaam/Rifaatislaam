@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rifat Islam</h1>
 <h3 align="center">Knowledge sharing it's kind of a big deal.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<br>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifaatislaam&label=Profile%20views&color=0e75b6&style=flat" alt="mdrifaatislaam" /> </p>
 
@@ -27,9 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Rifat Islam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rifat Islam" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrifaatislaam&show_icons=true&locale=en&layout=compact" alt="mdrifaatislaam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrifaatislaam&show_icons=true&locale=en" alt="mdrifaatislaam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrifaatislaam&" alt="mdrifaatislaam" /></p>
