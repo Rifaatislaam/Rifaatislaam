@@ -1,28 +1,36 @@
-#####I am Rifat Islam
-####A Front-End developer 🤠 .
-![I am a Front-End developer 🤠 .](C:\Users\USER\Downloads\github-banner.jpeg)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in
+<h1 align="center">Hi 👋, I'm Rifat Islam</h1>
+<h3 align="center">Knowledge sharing it's kind of a big deal.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-Hi! I'm Rifat Islam. I'am a Web Developer|
-I have completed my HSC in Business-Studies from Carmichael College in Rangpur. Also I am a student in department of Management in National University. I always try to share my knowledge and experience because I believe that "helping others means helping yourself".
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifaatislaam&label=Profile%20views&color=0e75b6&style=flat" alt="mdrifaatislaam" /> </p>
 
-Skills:  HTML / CSS / JavaScript
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my Protfolio website design. 
-- 🌱 I’m currently learning JavaScript. 
-- 👯 I’m looking to collaborate on my working knowledge. 
-- 💬 Ask me about font-end developmend. 
+- 🔭 I’m currently working on [Sponsorship & Child Protection Facilitator.](World Vision)
 
+- 🌱 I’m currently learning **JavaScript.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rifaatislaam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100036396420748)  
+- 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+- 💬 Ask me about **HTML & CSS**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rifaatislaam)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **mdrifaatislaam@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Rifaatislaam&show_icons=true)  
+- ⚡ Fun fact **I am too lazy!**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Rifaatislaam)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Rifaatislaam)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Rifaatislaam)  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Rifat Islam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rifat Islam" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrifaatislaam&show_icons=true&locale=en&layout=compact" alt="mdrifaatislaam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrifaatislaam&show_icons=true&locale=en" alt="mdrifaatislaam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrifaatislaam&" alt="mdrifaatislaam" /></p>
