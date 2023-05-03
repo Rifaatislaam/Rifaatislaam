@@ -1,3 +1,4 @@
+<img alt="Coding" width="533" height="200" src="file:///C:/Users/USER/Downloads/github-header-image%20(1).png">
 <h1 align="center">Hi 👋, I'm Rifat Islam</h1>
 <h3 align="center">Knowledge sharing it's kind of a big deal.</h3>
 <br>
