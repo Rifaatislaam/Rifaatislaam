@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML & CSS**
 
-- 📫 How to reach me > not today
+- 📫 How to reach me **> not today**
 
 - ⚡ Fun fact **I am too lazy!**
 
