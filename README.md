@@ -20,7 +20,7 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rifaatislaam&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
