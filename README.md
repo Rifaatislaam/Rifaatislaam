@@ -38,8 +38,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/dev.png" width="50" /></a>  
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/dev.png" width="50" /></a>
+<!-- DEV CONNECT LINK -->
+&nbsp; <a href="https://dev.to/rifaatislaam" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/Sf2NuZRCVuaE/dev" width="50" /></a>
 <!-- LINKDIN CONNECT LINK -->
 &nbsp; <a href="https://www.linkedin.com/in/rifat-islam-369a22275/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <!--   GMAIL CONNECT LINK -->
