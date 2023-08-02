@@ -40,7 +40,8 @@
 <p align="center">
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/dev.png" width="50" /></a>
 <!-- DEV CONNECT LINK -->
-&nbsp; <a href="https://dev.to/rifaatislaam" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/Sf2NuZRCVuaE/dev" width="50" /></a>
+&nbsp; <a href="https://dev.to/rifaatislaam" target="_blank" rel="noopener noreferrer"><img src="![image](https://github.com/Rifaatislaam/Rifaatislaam/assets/105654948/2a264c62-7b9b-48c8-88a3-1f5168435418)
+" width="50" /></a>
 <!-- LINKDIN CONNECT LINK -->
 &nbsp; <a href="https://www.linkedin.com/in/rifat-islam-369a22275/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <!--   GMAIL CONNECT LINK -->
