@@ -38,10 +38,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/dev.png" width="50" /></a>
+<!-- &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/dev.png" width="50" /></a> -->
 <!-- DEV CONNECT LINK -->
-&nbsp; <a href="https://dev.to/rifaatislaam" target="_blank" rel="noopener noreferrer"><img src="![image](https://github.com/Rifaatislaam/Rifaatislaam/assets/105654948/671e100b-4db4-4d42-ade3-714670598aa3)
-" width="50" color: "white" /></a>
+<!-- &nbsp; <a href="https://dev.to/rifaatislaam" target="_blank" rel="noopener noreferrer"><img src="![image](https://github.com/Rifaatislaam/Rifaatislaam/assets/105654948/671e100b-4db4-4d42-ade3-714670598aa3)
+" width="50" color: "white" /></a> -->
 <!-- LINKDIN CONNECT LINK -->
 &nbsp; <a href="https://www.linkedin.com/in/rifat-islam-369a22275/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <!--   GMAIL CONNECT LINK -->
