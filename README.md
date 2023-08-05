@@ -11,7 +11,7 @@
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
