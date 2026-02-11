@@ -1,6 +1,7 @@
 <h1><i>Hey there! I'm <b>Rifat Islam </b> </i> 👋</h1>
 <h2> A Font-end developer</h2>
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0-3JMwXYQWU9AYFXxMZWWk&ust=1706155911937000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjy3JiU9YMDFQAAAAAdAAAAABAE" width="500"/>
+<img align="right" alt="GIF" src="<img width="439" height="341" alt="image" src="https://github.com/user-attachments/assets/08aa7481-b012-4f6d-849c-0d624be8039d" />
+" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning javaScript and React Native for Development
