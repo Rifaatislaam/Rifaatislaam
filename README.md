@@ -2,7 +2,7 @@
 <h2> A Font-end developer</h2>
 <img align="right" alt="GIF" src="<img width="439" height="341" alt="image" src="[https://github.com/user-attachments/assets/08aa7481-b012-4f6d-849c-0d624be8039d](https://i0.wp.com/media1.giphy.com/media/7kn27lnYSAE9O/giphy.gif)"
 "width="500"/>
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About Me  </h3>
 
 - 🔭 &nbsp; I’m currently learning javaScript and React Native for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
