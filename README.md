@@ -1,4 +1,4 @@
-<h1><i>Hey there! I'm <b>Rifat Islamm  </b> </i> 👋</h1>
+<h1><i>Hey there! I'm <b>Rifat Islam </b> </i> 👋</h1>
 <h2> A Font-end developer</h2>
 <img align="right" alt="GIF" src="<img width="439" height="341" alt="image" src="[https://github.com/user-attachments/assets/08aa7481-b012-4f6d-849c-0d624be8039d](https://i0.wp.com/media1.giphy.com/media/7kn27lnYSAE9O/giphy.gif)"
 "width="500"/>
